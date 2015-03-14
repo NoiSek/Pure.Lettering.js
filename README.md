@@ -28,7 +28,8 @@ Letterize your phrases
   </script>
 ```
 
-An element such as <h1>Wizards</h1> becomes:
+An element such as `<h1>Wizards</h1>` becomes:
+
 ```
   <h1>
     <span class="char1">W</span>
